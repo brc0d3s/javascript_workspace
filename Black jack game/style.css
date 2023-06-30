@@ -1,0 +1,39 @@
+body{
+    padding:0;
+    margin: 0;
+    background: #277731;
+    font-family: "Trebuchet MS"
+
+}
+
+main {
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: 800;
+    font-size: 2em;
+}
+
+h1{
+    color:  #C4A000;
+}
+
+#message-el{
+    font-style: italic;
+}
+
+button{
+    padding: 10px 20px;
+    background: #C4A000;
+    color:#277731;
+    font-weight: 800;
+    font-size: 1em;
+    border: none;
+    border-radius: 15px;
+    margin: 5px;
+}
+button:hover{
+    background: #EDD400;
+    color:#73D216;
+}
+
+

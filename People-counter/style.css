@@ -1,0 +1,38 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    background:#5C3566;
+    text-align: center;
+}
+
+h1{
+    color: #8AE234;
+}
+h2{
+    font-size: 5em;
+    color:#72CBCF; 
+    font-weight: 800;
+}
+
+.increment:hover{
+    background: #CC0000;
+}
+.increment{
+    margin-top: 30px;
+    padding: 10px 40px;
+    background: #8C1212;
+    color: #FFFFFF;
+}
+
+
+
+.save:hover{
+    background: #65CC00;
+}
+.save{
+    margin: 30px;
+    padding: 10px 40px;
+    background: #00CC02;
+    color: #FFFFFF;
+}
